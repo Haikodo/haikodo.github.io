@@ -1,3 +1,3 @@
 # haikodo.github.io
 
-[a link](Haikodo/All-is-Fair/index.html)
+[a link](https://haikodo.github.io/All-is-Fair/)
