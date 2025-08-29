@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    height: 200%;
+    width: 100%;
+    background-image: linear-gradient(to bottom, #292bca 10%, #0e064e 90%);
+}
+
+h1 {
+    color: rgba(186, 250, 245, 0.753);
+    text-align: center;
+    padding: 20px;
+}
+
+.MainContent {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
